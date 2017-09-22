@@ -1,4 +1,4 @@
-\# DijkstraAlgorithm
+# DijkstraAlgorithm
 Visual C++ CLR Forms Application which calculates the shotest path using the popular Dijkstra's Algorithm
 
 ## Getting Started
@@ -6,6 +6,7 @@ You must have Visual Studio Installed in order to run this Project.
 Open up the Repository into the Visual Studio or Double Click the .sln file to fire Visual Studio.
 
 ## Running
+First enter the number of nodes you want to have(not more than 10). Then add the edges and provide source and destination node to compute the shortest path.
 
 ### Screenshots
 ![image](https://github.com/rkv225/DijkstraAlgorithm/blob/master/Screens/01.PNG)
