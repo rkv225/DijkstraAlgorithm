@@ -8,7 +8,9 @@ Open up the Repository into the Visual Studio or Double Click the .sln file to f
 ## Running
 
 ### Screenshots
-<img src="~\Screens\01.png">
+![image](https://github.com/rkv225/DijkstraAlgorithm/blob/master/Screens/01.PNG)
+![image](https://github.com/rkv225/DijkstraAlgorithm/blob/master/Screens/02.PNG)
+![image](https://github.com/rkv225/DijkstraAlgorithm/blob/master/Screens/03.PNG)
 
 ### Algorithm
 ```C++
