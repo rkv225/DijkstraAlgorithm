@@ -9,7 +9,7 @@ Open up the Repository into the Visual Studio or Double Click the .sln file to f
 
 
 ### Algorithm
-```
+```C++
 void calcShortestDist()
 
 		{
