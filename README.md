@@ -8,7 +8,7 @@ Open up the Repository into the Visual Studio or Double Click the .sln file to f
 ## Running
 
 ### Screenshots
-![image](Screens/01.png "")
+<img src="Screens\01.png">
 
 ### Algorithm
 ```C++
