@@ -161,6 +161,6 @@ void calcShortestDist()
 			resettingPens();
 
 		}
-    ```
-    ### Screenshots:
+```
+### Screenshots:
     
