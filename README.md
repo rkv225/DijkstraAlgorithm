@@ -7,6 +7,8 @@ Open up the Repository into the Visual Studio or Double Click the .sln file to f
 
 ## Running
 
+### Screenshots
+![image](Screens/01.png?raw=true "")
 
 ### Algorithm
 ```C++
@@ -162,5 +164,4 @@ void calcShortestDist()
 
 		}
 ```
-### Screenshots:
     
