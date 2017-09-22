@@ -1,4 +1,4 @@
-# DijkstraAlgorithm
+\# DijkstraAlgorithm
 Visual C++ CLR Forms Application which calculates the shotest path using the popular Dijkstra's Algorithm
 
 ## Getting Started
@@ -8,7 +8,7 @@ Open up the Repository into the Visual Studio or Double Click the .sln file to f
 ## Running
 
 ### Screenshots
-<img src="Screens\01.png">
+<img src="~\Screens\01.png">
 
 ### Algorithm
 ```C++
